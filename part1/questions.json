@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "question": "How many points did the Warriors score against the Sacramento Kings on October 27, 2023?",
+    "return": {
+      "points": "int",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Which team won the 2024 New Year's Eve game between the Thunder and Timberwolves, and what was the final score?",
+    "return": {
+      "winner": "str",
+      "score": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Which team won the 2023 Christmas Day game between Golden State and Denver, and what was the final score?",
+    "return": {
+      "winner": "str",
+      "score": "str",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Who was the leading scorer in the 2023 Christmas Day game between the Los Angeles Lakers and Boston Celtics, and how many points did he score?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "How many points did Luka Dončić score in the Dallas Mavericks' 148-143 win over the Atlanta Hawks on 1-26-24?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Which player recorded a triple-double in the Denver Nuggets' 132-121 win over the Utah Jazz on December 30, 2024, and what were his points, rebounds, and assists?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "rebounds": "int",
+      "assists": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "How many points did LeBron James score in the LA Lakers' 140-132 victory over the Rockets on January 16, 2023?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "Who was the leading scorer in OKC's 144-110 victory over SAC on 2/1/2024, and how many points did he score?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "How many points did Victor Wembanyama score in his NBA debut against the Dallas Mavericks on October 25, 2023?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Which player had 40 points on 4/9 in the 2023 NBA Season?",
+    "return": {
+      "player_name": "str",
+      "points": "int",
+      "evidence": [
+        {
+          "table": "player_box_score",
+          "id": "int"
+        }
+      ]
+    }
+  }
+]

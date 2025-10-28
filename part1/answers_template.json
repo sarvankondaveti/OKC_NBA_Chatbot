@@ -1,0 +1,12 @@
+[
+    {"id":1,"result":{"points":0,"evidence":[{"table":"game_details","id":0}]}},
+    {"id":2,"result":{"winner":"","score":"","evidence":[{"table":"game_details","id":0}]}},
+    {"id":3,"result":{"winner":"","score":"","evidence":[{"table":"game_details","id":0}]}},
+    {"id":4,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":5,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":6,"result":{"player_name":"","points":0,"rebounds":0,"assists":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":7,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":8,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":9,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}},
+    {"id":10,"result":{"player_name":"","points":0,"evidence":[{"table":"player_box_score","id":0}]}}
+]

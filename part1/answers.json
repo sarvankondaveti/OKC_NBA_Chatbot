@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "result": {
+      "points": 122,
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 22300087
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "result": {
+      "winner": "Oklahoma City Thunder",
+      "score": "113-105",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 22400452
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "result": {
+      "winner": "Denver Nuggets",
+      "score": "120-114",
+      "evidence": [
+        {
+          "table": "game_details",
+          "id": 22300402
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "result": {
+      "player_name": "Anthony Davis",
+      "points": 40,
+      "evidence": [
+        {
+          "table": "player_box_scores",
+          "id": 22300403
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "result": {
+      "player_name": "Luka Dončić",
+      "points": 73,
+      "evidence": [
+        {
+          "table": "player_box_scores",
+          "id": 22300634
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "result": {
+      "player_name": "Nikola Jokić",
+      "points": 36,
+      "rebounds": 22,
+      "assists": 11,
+      "evidence": [
+        {
+          "table": "player_box_scores",
+          "id": 22400445
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "result": {
+      "error": "Data not available - Lakers vs Rockets January 16, 2023 not in Western Conference dataset",
+      "evidence": []
+    }
+  },
+  {
+    "id": 8,
+    "result": {
+      "error": "Data not available - OKC vs SAC February 1, 2024 not in Western Conference dataset",
+      "evidence": []
+    }
+  },
+  {
+    "id": 9,
+    "result": {
+      "player_name": "Victor Wembanyama",
+      "points": 15,
+      "evidence": [
+        {
+          "table": "player_box_scores",
+          "id": 22300073
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "result": {
+      "error": "Data not available - April 9, 2023 games not in Western Conference dataset",
+      "evidence": []
+    }
+  }
+]
